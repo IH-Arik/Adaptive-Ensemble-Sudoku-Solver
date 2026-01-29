@@ -1,0 +1,28 @@
+# Core dependencies
+numpy>=1.21.0
+
+# GUI framework
+tkinter  # Usually comes with Python, but listed for completeness
+
+# Optional: For enhanced GUI (alternative to tkinter)
+# PyQt5>=5.15.0
+# kivy>=2.1.0
+
+# Optional: For advanced visualization and analysis
+matplotlib>=3.5.0
+seaborn>=0.11.0
+pandas>=1.3.0
+
+# Optional: For performance profiling
+# psutil>=5.8.0
+# memory-profiler>=0.60.0
+
+# Development dependencies (optional)
+# pytest>=6.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.910
+
+# Optional: For creating executables
+# pyinstaller>=4.5.0
+# cx-freeze>=6.10
