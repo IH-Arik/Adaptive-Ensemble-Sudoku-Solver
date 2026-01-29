@@ -2,6 +2,7 @@
 Basic usage example for the Adaptive Ensemble Sudoku Solver.
 """
 
+import utils.session
 from src import SolverFactory, PuzzleGenerator, PerformanceAnalyzer
 from src.algorithms import Algorithm, Difficulty
 from src.utils import BoardUtils
